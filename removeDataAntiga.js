@@ -15,5 +15,7 @@ module.exports = function(doc) {
 		//return _.omit(doc, ["nome"]);
 	}
   	return false;
+
+  	//alteracao so pra testar o git
 	
 }
